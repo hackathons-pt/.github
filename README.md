@@ -1,5 +1,2 @@
-# we are hackathons.pt
-we organize hackathons in portugal and fund teen-lead STEM projects.
-
-currently organizing: 
-daydream lisbon by hack club
+# .github
+this repository is used mostly for resources for our websites and github profile.
